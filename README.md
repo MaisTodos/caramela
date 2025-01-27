@@ -1,4 +1,4 @@
-# Caramela
+# Caramela :dog2:
 
 Este projeto é destinado as automações de teste Front-end E2E funcional da Plataforma MaisTodos
 
