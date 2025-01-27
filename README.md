@@ -21,12 +21,6 @@ Instalando todas as dependêcias:
 
 - npm install cypress --save-dev
 
-Rodando os testes:
-
-- npx cypress open: - Esse comando abre o cypress para execuções manuais
-
-- npx cypress run: - Esse comando roda os testes de forma headless
-
 Adicionando dados de login localmente:
 
 - crie uma pasta "cypress.env.json" em seu projeto local, e adicione dados de login no formato abaixo
@@ -35,6 +29,15 @@ Adicionando dados de login localmente:
     "email": "exemplo@gmail.com",
     "senha": "exemplo123"
 }
+
+Rodando os testes:
+
+- npx cypress open: - Esse comando abre o cypress para execuções manuais
+
+    ou
+
+- npx cypress run: - Esse comando roda os testes de forma headless
+
 
 ### Arquitetura do Projeto :gear:
 
