@@ -27,6 +27,15 @@ Rodando os testes:
 
 - npx cypress run: - Esse comando roda os testes de forma headless
 
+Adicionando dados de login localmente:
+
+- crie uma pasta "cypress.env.json" em seu projeto local, e adicione dados de login no formato abaixo
+
+{
+    "email": "exemplo@gmail.com",
+    "senha": "exemplo123"
+}
+
 ### Arquitetura do Projeto :gear:
 
 e2e:
