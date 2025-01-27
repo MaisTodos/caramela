@@ -23,7 +23,7 @@ Instalando todas as dependêcias:
 
 Adicionando dados de login localmente:
 
-- crie um arquivo "cypress.env.json" em seu projeto local, e adicione dados de login no formato abaixo
+- Crie um arquivo "cypress.env.json" em seu projeto local e adicione os dados de login seguindo o formato abaixo:
 
 {
     "email": "exemplo@gmail.com",
